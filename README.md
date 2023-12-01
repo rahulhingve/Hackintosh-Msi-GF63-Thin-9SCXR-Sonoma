@@ -132,9 +132,15 @@ Function Key ✅
 
 - [@dushan12k](https://github.com/dushan12k) thanks for Brightness key ✅
 
+##Not Working
+nvdia 1650 Max-Q so Disabled
+How to Check Gpu if On or off  in MSI
+If Led Of power Key is White then Turned Of
+If Red Then Gpu is Powered On
 
 ## Bugs
 - AirDrop  (showing the iphone but tapping on share nothing happens )
+- Closing And Opening  laptop lid  Cause Nvdia Gpu Get Power On (You can check power key led turned red ) And it is the main Problem for battery drain so If you also facing this just Restart Again
 
 ## BIOS Setting 
 ### Disable 
