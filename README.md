@@ -132,7 +132,7 @@ Function Key ✅
 
 - [@dushan12k](https://github.com/dushan12k) thanks for Brightness key ✅
 
-##Not Working
+##  Not Working
 nvdia 1650 Max-Q so Disabled
 How to Check Gpu if On or off  in MSI
 If Led Of power Key is White then Turned Of
