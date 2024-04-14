@@ -118,6 +118,9 @@ https://www.youtube.com/watch?v=GGy3V3YT6tI
 and some googgling skills.
 
 ##  Whats Working 
+Fixed HDMI Output in latest commit
+https://github.com/rahulhingve/Hackintosh-Msi-GF63-Thin-9SCXR-Sonoma/commit/f9c162c0d4270de7fa4d68cec6e4ef230b4adb9d
+
 WiFi      ✅
 
 Bluetooth ✅
