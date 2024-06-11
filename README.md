@@ -1,5 +1,5 @@
 
-# OpenCore Hackintosh EFI For MSI GF63 Thin 9SCXR 
+# OpenCore Hackintosh EFI For MSI GF63 Thin 9SCXR Works on Sonoma and MacOs 15 
 
 The EFI is nearly perfect for the MSI GF 63 Thin 9SCXR Tested On  **Sonoma** , although it's not perfect in some aspects, but major things are Fixed and working absolutely fine. Before using this EFI, follow the complete guide.
 ## Screenshot
